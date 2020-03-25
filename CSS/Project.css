@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(../Project/gn-gift_guide_variable_c.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
